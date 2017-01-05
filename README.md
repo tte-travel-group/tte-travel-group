@@ -1,4 +1,4 @@
-## TTe Travel
+## TTe Travel Around The World
 Control panel and tools based on php framework Yii2. Easy cms for easy websites.
 
 #### Requirements
