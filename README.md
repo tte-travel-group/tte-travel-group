@@ -23,6 +23,7 @@ vendor/             contains dependent 3rd-party packages
 * [Homepage](http://easyiicms.com)
 * [Installation](http://easyiicms.com/docs/install)
 * [Demo](http://demo.easyiicms.com/)
+* [Google] (http://google.com)
 
 #### Contacts ####
 
