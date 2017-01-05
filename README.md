@@ -20,10 +20,8 @@ vendor/             contains dependent 3rd-party packages
 ```
 
 #### You can find full information in links bellow ####
-* [Homepage](http://easyiicms.com)
-* [Installation](http://easyiicms.com/docs/install)
-* [Demo](http://demo.easyiicms.com/)
 * [Google] (http://google.com)
+* [Arcadiacomm] (http://arcadiacomm.com)
 
 #### Contacts ####
 
