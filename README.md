@@ -1,4 +1,4 @@
-## EasyiiCMS
+## TTe Travel
 Control panel and tools based on php framework Yii2. Easy cms for easy websites.
 
 #### Requirements
