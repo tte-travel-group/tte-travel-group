@@ -21,3 +21,4 @@
         $string = trim($string, $replacement);
         return $lowercase ? strtolower($string) : $string;
     }
+Đã thêm hàm này vào chưa
